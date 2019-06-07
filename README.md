@@ -1,1 +1,1 @@
-Spring Pet Clinic
+Spring PetClinic
