@@ -20,3 +20,5 @@ pet-clinic-data/target/
 pet-clinic-web/target/
 
 target/
+
+release\.properties
