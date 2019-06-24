@@ -1,4 +1,4 @@
-package sgppetclinic;
+package com.spring.sgppetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
